@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hannah! A second year computer engineering student at the University of Toronto!
-- 👀 I’m interested in machine learning, software development, and vomputer vision!
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in machine learning, software development, and computer vision!
+- 🌱 I’m currently learning React and Javascript!
 - 📫 How to reach me: feel free to email me at hannahye0505@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play the piano!
